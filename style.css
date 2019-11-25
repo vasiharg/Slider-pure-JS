@@ -1,0 +1,10 @@
+body {
+    background-color: #6e8489;
+}
+
+.container {
+    height: 100vh;
+    text-align: center;
+    color: blueviolet;
+    text-transform: uppercase;
+}
